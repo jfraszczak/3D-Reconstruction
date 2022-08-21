@@ -16,6 +16,6 @@ Following packages were used:
 - scipy==1.8.0
 - six==1.16.0
 - sklearn==0.0
-- threadpoolctl==3.1.0
-<br/><br/>
+- threadpoolctl==3.1.0  
+<br/>
 In order to run the project these packages should be installed and main.py script needs to be run.
