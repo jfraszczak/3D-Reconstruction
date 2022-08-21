@@ -1,8 +1,8 @@
 # 3D-Reconstruction
 
 Following packages were used:  
-*cycler==0.11.0
-*fonttools==4.30.0
+- cycler==0.11.0
+- fonttools==4.30.0
 *joblib==1.1.0
 *kiwisolver==1.4.0
 *matplotlib==3.5.1
