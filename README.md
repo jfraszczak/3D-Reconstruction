@@ -7,4 +7,6 @@ the presence of specific landmarks like visible rectangular markers and the fact
 flexible costume with multiple crossing lines it is possible to exploit geometrical properties in order to 
 reconstruct mentioned shape. 
 
-Following pdf file contains further details and results: https://github.com/jfraszczak/3D-Reconstruction/blob/main/Visual%20Scan%20of%20Human%20Body.pdf
+Following pdf file contains further details and results: 
+
+https://github.com/jfraszczak/3D-Reconstruction/blob/main/Visual%20Scan%20of%20Human%20Body.pdf
